@@ -29,3 +29,26 @@ input{
     height: 40%;
     width: 30% ;
 }
+
+
+.container1{
+    border: 3px solid black; 
+    width: 25%;
+    height: 100%;
+    background-color: black;
+}
+
+#tekst{
+    color: white;
+}
+
+
+body{
+    height: 100%;
+    width: 100%;
+}
+
+#button1{
+    color: blue
+    
+}
