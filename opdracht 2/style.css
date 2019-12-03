@@ -1,0 +1,48 @@
+
+.main-container{
+    border: 3px solid gray; 
+    width: 600px;
+    height: 400px;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+
+body{
+    height: 100%;
+    width: 100%;
+}
+
+#button1{
+    background-color: blue;
+    color: white;
+    height: 20px;
+    width: 200px;
+    
+}
+
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+h2{
+    color: white;
+    justify-content: center;
+}
+
+h3{
+        color: white;
+        justify-content: center;
+}
+
+p{
+    color: white;
+    justify-content: center;
+}
