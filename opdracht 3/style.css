@@ -28,9 +28,7 @@ h4 {
     height: 600px;
 }
 
-p {
-    width: 150px;
-    border: 2px solid black;
+#text {
     height: 40px;
     width: 80px;
 }
@@ -45,4 +43,9 @@ input {
     color: white;
     height: 20px;
     width: 100px;
+}
+
+#tekst {
+    text-decoration-line: underline;
+    color: blue;
 }
